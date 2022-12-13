@@ -1,1 +1,3 @@
 baseConfig: google/allstar-config
+optConfig:
+  optOutStrategy: false
